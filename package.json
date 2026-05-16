@@ -8,7 +8,8 @@
     "TrappingRainWater":"npx tsc && node dist/SecondProblem/TrappingRainWater.js",
     "ClimbingStairs":"npx tsc && node dist/ThirdProblem/ClimbingStairs.js",
     "JumpGame":"npx tsc && node dist/FourthProblem/JumpGame.js",
-    "RodCutting":"npx tsc && node dist/FifthProblem/RodCutting.js",    
+    "RodCutting":"npx tsc && node dist/FifthProblem/RodCutting.js", 
+    "LargestHistogramArea":"npx tsc && node dist/SixthProblem/LargestHistogramArea.js",   
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
