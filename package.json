@@ -7,7 +7,8 @@
     "FloodFill":"npx tsc && node dist/FirstProblem/FloodFill.js",
     "TrappingRainWater":"npx tsc && node dist/SecondProblem/TrappingRainWater.js",
     "ClimbingStairs":"npx tsc && node dist/ThirdProblem/ClimbingStairs.js",
-    "JumpGame":"npx tsc && node dist/FourthProblem/JumpGame.js",    
+    "JumpGame":"npx tsc && node dist/FourthProblem/JumpGame.js",
+    "RodCutting":"npx tsc && node dist/FifthProblem/RodCutting.js",    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
