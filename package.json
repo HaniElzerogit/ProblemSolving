@@ -4,13 +4,13 @@
   "description": "A collection of algorithmic challenge solutions implemented in TypeScript.",
   "main": "index.js",
   "scripts": {
-    "FloodFill":"npx tsc && node dist/FirstProblem/FloodFill.js",
-    "TrappingRainWater":"npx tsc && node dist/SecondProblem/TrappingRainWater.js",
-    "ClimbingStairs":"npx tsc && node dist/ThirdProblem/ClimbingStairs.js",
-    "JumpGame":"npx tsc && node dist/FourthProblem/JumpGame.js",
-    "RodCutting":"npx tsc && node dist/FifthProblem/RodCutting.js", 
-    "LargestHistogramArea":"npx tsc && node dist/SixthProblem/LargestHistogramArea.js",   
-    "MaximalRectangle":"npx tsc && node dist/SeventhProblem/MaximalRectangle.js",
+    "FloodFill":"npx tsc && node dist/01_FloodFill.js",
+    "TrappingRainWater":"npx tsc && node dist/02_TrappingRainWater.js",
+    "ClimbingStairs":"npx tsc && node dist/03_ClimbingStairs.js",
+    "JumpGame":"npx tsc && node dist/04_JumpGame.js",
+    "RodCutting":"npx tsc && node dist/05_RodCutting.js", 
+    "LargestHistogramArea":"npx tsc && node dist/06_LargestHistogramArea.js",   
+    "MaximalRectangle":"npx tsc && node dist/07_MaximalRectangle.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
