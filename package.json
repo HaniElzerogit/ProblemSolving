@@ -10,6 +10,7 @@
     "JumpGame":"npx tsc && node dist/FourthProblem/JumpGame.js",
     "RodCutting":"npx tsc && node dist/FifthProblem/RodCutting.js", 
     "LargestHistogramArea":"npx tsc && node dist/SixthProblem/LargestHistogramArea.js",   
+    "MaximalRectangle":"npx tsc && node dist/SeventhProblem/MaximalRectangle.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
