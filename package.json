@@ -1,0 +1,22 @@
+{
+  "name": "problemsolving",
+  "version": "1.0.0",
+  "description": "A collection of algorithmic challenge solutions implemented in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "FloodFill":"npx tsc && node dist/FirstProblem/FloodFill.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaniElzerogit/ProblemSolving.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HaniElzerogit/ProblemSolving/issues"
+  },
+  "homepage": "https://github.com/HaniElzerogit/ProblemSolving#readme"
+}
